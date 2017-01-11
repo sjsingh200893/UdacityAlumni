@@ -8,7 +8,7 @@ If you are a Udacity ND graduate, or current or prospective student you are welc
 https://waffle.io/BenGoBlue05/UdacityAlumni/join
 
 
-[![Demo](https://j.gifs.com/GZXDKJ.gif)]
+![Demo](https://j.gifs.com/GZXDKJ.gif)
 
 
 
